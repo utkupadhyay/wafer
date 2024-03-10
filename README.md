@@ -1,2 +1,2 @@
 # wafer
-A light-weight design system for React
+A light-weight component library for React
